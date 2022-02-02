@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @harrisbot
 - 🧠 Trying to know more than I did the day before.
-- 💞️ I’m looking to collaborate on: Simple ML projects
+- 🤝 I’m looking to collaborate on: Simple ML projects
 - 📫 How to reach me:  sharris@sharris.xyz (or you can write what you want on a rock nd throw it into a lake.  I get all of those)
 
 <!---
